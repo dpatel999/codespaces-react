@@ -1,15 +1,15 @@
 {
   "Header": {
-    "title": "Welcome to Hindustan Organics",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Empowering Growth with Hindustan Organics",
+    "paragraph": "Empowering growth with innovative solutions and top-quality products and services"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Hindustan Organics is a leading provider of quality products and services, committed to empowering growth through innovative solutions. With years of experience and a passion for excellence, we have established a reputation for being the best in the industry. Our mission is to provide our customers with the best possible experience and to always go above and beyond to exceed their expectations.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Commitment to quality",
+      "Innovative solutions",
+      "Experienced team",
+      "Customer-focused approach"
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Plot No C, 1, 1114/C, behind Gaytre Temple Road, Phase 4, GIDC Estate, Naroda, Ahmedabad, Gujarat 382330",
+    "phone": "+919427050266",
+    "email": "hindorg@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
