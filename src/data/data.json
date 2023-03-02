@@ -1,10 +1,11 @@
 {
   "Header": {
-    "title": "Empowering Growth with Hindustan Organics",
-    "paragraph": "Empowering growth with innovative solutions and top-quality products and services"
+    "title": "Hindustan Organics - The Chemistry of Success",
+    "paragraph": "Innovative Chemicals, Unmatched Expertise, and Exceptional Customer Service"
   },
   "About": {
-    "paragraph": "Hindustan Organics is a leading provider of quality products and services, committed to empowering growth through innovative solutions. With years of experience and a passion for excellence, we have established a reputation for being the best in the industry. Our mission is to provide our customers with the best possible experience and to always go above and beyond to exceed their expectations.",
+    "paragraph1": "At Hindustan Organics, we offer a comprehensive range of high-quality chemicals and products designed to meet the needs of a variety of industries. From industrial-grade solvents and adhesives to specialized chemicals for the food and beverage industry, we have the expertise and experience to provide the right solution for your business. Our products are made from the finest materials and are backed by rigorous quality control processes, ensuring that they meet the highest standards of safety and performance.",
+    "paragraph2": "We understand that each industry has its own unique requirements and that's why we offer a range of customized solutions to meet your specific needs. Whether you're looking for a standard product or a specialized solution, we have the experience and expertise to help you find the right product for your business. Our team of experts is always available to help you choose the right solution for your needs, and to provide the support you need to succeed.",
     "Why": [
       "Commitment to quality",
       "Innovative solutions",
@@ -12,10 +13,10 @@
       "Customer-focused approach"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Integrity",
+      "Trust",
+      "Excellence",
+      "Innovation"
     ]
   },
   "Gallery": [
